@@ -40,53 +40,54 @@ const List<Task> chapter3TaskList = [
 const List<Task> chapter4TaskList = [
   Task(
     taskModel: t_4_5_1_1,
-    //solution: S4511(),
+    solution: S4511(),
   ),
   Task(
     taskModel: t_4_5_2_1,
-    //solution: S4521(),
+    solution: S4521(),
   ),
   Task(
     taskModel: t_4_5_2_2,
-    // solution: S4522(),
+    solution: S4522(),
+    //Task
   ),
   Task(
     taskModel: t_4_5_2_3,
-    // solution: S4523(),
+    solution: S4523(),
   ),
   Task(
     taskModel: t_4_5_2_4,
-    // solution: S4524(),
+    //solution: S4524(),
   ),
   Task(
     taskModel: t_4_5_3_1,
-    //solution: S4531(),
+    solution: S4531(),
   ),
   Task(
     taskModel: t_4_5_3_2,
-    //solution: S4532(),
+    solution: S4532(),
   ),
   Task(
     taskModel: t_4_5_3_3,
-    //solution: S4533(),
+    solution: S4533(),
   ),
   Task(
     taskModel: t_4_5_3_4,
-    //solution: S4534(),
+    solution: S4534(),
   ),
   Task(
     taskModel: t_4_5_3_5,
-    //solution: S4535(),
+    solution: S4535(),
   ),
   Task(
     taskModel: t_4_5_3_6,
-    //solution: S4536(),
+    solution: S4536(),
   ),
 ];
 const List<Task> chapter5TaskList = [
   Task(
     taskModel: t_5_1_1_1,
-    // solution: S5111(),
+    solution: S5111(),
   ),
   Task(
     taskModel: t_5_1_1_2,
@@ -150,7 +151,7 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_4_1_1,
-    // solution: S5411(),
+    solution: S5411(),
   ),
   Task(
     taskModel: t_5_4_2_1,
